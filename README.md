@@ -3,3 +3,4 @@ Repositorio que contiene todo sobre el curso JavaScript Moderno de (https://escu
 Está organizado en los siguientes capítulos:
 
 * Desestructuración
+* Módulos JavaScript
