@@ -7,3 +7,4 @@ Está organizado en los siguientes capítulos:
 * Spread and rest
 * Clases
 * Promesas
+* Fetch API
