@@ -5,3 +5,5 @@ Está organizado en los siguientes capítulos:
 * Desestructuración
 * Módulos JavaScript
 * Spread and rest
+* Clases
+* Promesas
