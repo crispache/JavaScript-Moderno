@@ -8,3 +8,4 @@ Está organizado en los siguientes capítulos:
 * Clases
 * Promesas
 * Fetch API
+* JavaScript asíncrono con Async / Await
